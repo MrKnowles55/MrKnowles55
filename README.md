@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @MrKnowles55
-- 👀 I’m interested in Python, automation, machine learning, data analysis, physics and astronomy.
-- 🌱 I’m currently learning Pandas module
-- 💞️ I’m looking to collaborate on real world problems in the realms of physical science, engineering and research.
-- 📫 How to reach me: mrknowles55@gmail.com
+mrknowles55@gmail.com
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/matthew-r-knowles/">
